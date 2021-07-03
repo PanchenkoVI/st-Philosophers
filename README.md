@@ -25,8 +25,7 @@ make
 make test1
 P.S. Parameter: 5 800 200 200
 
-make test2
-P.S. Parameter: 5 800 200 200 1
+make test2 -> P.S. Parameter: 5 800 200 200 1
 
 make test3
 P.S. Parameter: 4 410 200 200
