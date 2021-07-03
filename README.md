@@ -27,20 +27,15 @@ P.S. Parameter: 5 800 200 200
 
 make test2 -> P.S. Parameter: 5 800 200 200 1
 
-make test3
-P.S. Parameter: 4 410 200 200
+make test3 -> P.S. Parameter: 4 410 200 200
 
-make test4
-P.S. Parameter: 4 310 200 100 
+make test4 -> P.S. Parameter: 4 310 200 100 
 
-make test5
-P.S. Parameter: 5 800 200 200 1 | grep -i "is eating" | wc -l
+make test5 -> P.S. Parameter: 5 800 200 200 1 | grep -i "is eating" | wc -l
 
-make test6
-P.S. Parameter: 5 800 200 200 7 | grep -i "is eating" | wc -l
+make test6 -> P.S. Parameter: 5 800 200 200 7 | grep -i "is eating" | wc -l
 
-make test7
-P.S. Parameter: 2 800 200 200 1
+make test7 -> P.S. Parameter: 2 800 200 200 1
 
 make clean
 
