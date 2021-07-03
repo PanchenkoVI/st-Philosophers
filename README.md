@@ -22,8 +22,7 @@ You will have to write three programs for the mandatory part but they will have 
 ## MAKE
 make
 
-make test1
-P.S. Parameter: 5 800 200 200
+make test1 -> P.S. Parameter: 5 800 200 200
 
 make test2 -> P.S. Parameter: 5 800 200 200 1
 
